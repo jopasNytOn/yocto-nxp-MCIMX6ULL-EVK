@@ -1,0 +1,3 @@
+[submodule "sources/meta-gplv2"]
+	path = sources/meta-gplv2
+	url = https://github.com/lgirdk/meta-gplv2
